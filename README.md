@@ -1,0 +1,1 @@
+This repository demonstrates an uncommon bug in Perl related to the use of the each function with hash modifications. The bug occurs when the hash is modified inside the loop, leading to unexpected iteration behavior.  The solution provides a way to reliably iterate through the hash even when modifications occur.
